@@ -1,11 +1,11 @@
 Mega Project List
 ========
 
-A list of practical projects that anyone can solve in any programming language. These projects are divided in multiple categories, and each category has its own folder. I started the projects on the list on 3/10/15.
+A list of practical projects that anyone can solve in any programming language. These projects are divided in multiple categories, and each category has its own folder. I started the projects on the list on 3/10/15!
 
 ## Credits
 
-This repo was compiled by [Karan Goel](http://twitter.com/karangoel).
+This repo was originally compiled by [Karan Goel](http://twitter.com/karangoel).
 
 Problems are motivated by the ones shared at:
 
@@ -33,15 +33,15 @@ Numbers
 
 [**Find PI to the Nth Digit**](https://github.com/jackiehluo/projects/blob/master/numbers/pi.py) - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-**Find e to the Nth Digit** - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.
+[**Find e to the Nth Digit**](https://github.com/jackiehluo/projects/blob/master/numbers/e.py) - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.
 
-**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+[**Fibonacci Sequence**](https://github.com/jackiehluo/projects/blob/master/numbers/fibonacci-sequence.py) - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
-**Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
+[**Prime Factorization**](https://github.com/jackiehluo/projects/blob/master/numbers/prime-factorization.py) - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
-**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
+[**Next Prime Number**](https://github.com/jackiehluo/projects/blob/master/numbers/next-prime-number.py) - Have the program find prime numbers until the user chooses to stop asking for the next one.
 
-**Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+[**Find Cost of Tile to Cover W x H Floor**](https://github.com/jackiehluo/projects/blob/master/numbers/cost-of-tile.py) - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
 **Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan. For added complexity, add an option for users to select the compounding interval (Monthly, Weekly, Daily, Continually).
 
