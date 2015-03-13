@@ -5,7 +5,6 @@ def calculate(exp):
             n.append(float(c))
         elif (c == "+" or c == "-" or c == "*" or c == "/"):
             op = c
-    print n
     if op == "+":
         return n[0] + n[1]
     elif op == "-":
